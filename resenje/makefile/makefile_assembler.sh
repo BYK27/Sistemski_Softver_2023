@@ -1,0 +1,1 @@
+g++ -o assembler ../src/mainAssembler.cpp
